@@ -1,5 +1,5 @@
-aprspass.py is a port of the APRS-IS password hash generator from aprs to
-Python.
+aprspass.py is a port of the APRS-IS password hash generator from aprsd's C++
+code to Python.
 
 Usage:
 aprspass.py callsign
