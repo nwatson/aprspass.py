@@ -1,0 +1,11 @@
+aprspass.py is a port of the APRS-IS password hash generator from aprs to
+Python.
+
+Usage:
+aprspass.py callsign
+
+Copyright (c) 2012 Nathan Watson
+
+from aprsd,
+Copyright (c) 1997, 2002 Dale A. Heatherington, WA4DSY
+Copyright (c) 2001-2004 aprsd Dev Team
